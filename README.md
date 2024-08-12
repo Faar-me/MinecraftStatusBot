@@ -8,8 +8,8 @@ A Discord bot that monitors and updates Minecraft server status using embeds.
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/minecraft-status-bot.git
-   cd minecraft-status-bot
+   git clone https://github.com/Faar-me/MinecraftStatusBot.git
+   cd MinecraftStatusBot
    ```
 
 2. **Create a Configuration File**
