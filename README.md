@@ -1,4 +1,4 @@
-```markdown
+
 # Minecraft Status Bot
 
 A Discord bot that monitors and updates Minecraft server status using embeds.
@@ -55,4 +55,4 @@ A Discord bot that monitors and updates Minecraft server status using embeds.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
